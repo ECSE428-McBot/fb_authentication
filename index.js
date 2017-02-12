@@ -15,7 +15,7 @@ app.use(bodyParser.json())
 
 // Index route
 app.get('/', function (req, res) {
-    res.send('18396772')
+    res.send('EAAFJaTQTZCAgBAEPCZAO7ZCxCZBqkNlbKg54cgPI8h9qk9zFOI3gFwZADzJrNDsO06Art9WnRWMdBLmQg4V66TFb5lyOtsqSTsR4SjqJ1dv6xYZBq25q6tnSj74OI9NgtWQMsYflJ7TDAoeyrxdcpnsTr4G0iGoApC6vWHfUVuZCgZDZD')
 })
 
 // for Facebook verification
